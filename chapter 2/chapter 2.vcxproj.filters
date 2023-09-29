@@ -39,5 +39,17 @@
     <ClCompile Include="2.33 2.34 2.35.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2.36 2.37 2.38.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.39 2.40.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.41.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2.42.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

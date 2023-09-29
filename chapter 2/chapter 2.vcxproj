@@ -135,6 +135,10 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="2.33 2.34 2.35.cpp" />
+    <ClCompile Include="2.36 2.37 2.38.cpp" />
+    <ClCompile Include="2.39 2.40.cpp" />
+    <ClCompile Include="2.41.cpp" />
+    <ClCompile Include="2.42.cpp" />
     <ClCompile Include="2.5 2.6 2.7 2.8.cpp" />
     <ClCompile Include="2.9 2.10 2.11 2.12 2.13 2.14 2.15 2.16 2.17.cpp" />
   </ItemGroup>
