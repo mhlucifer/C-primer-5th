@@ -29,11 +29,3 @@ int main()
 	swap(a, b);
 	cout << a << " "<<b << endl;
 }
-void compare(int a, int b)
-{
-	int a;
-	for (int i = 0; i < 10; i++)
-	{
-		cout << i << endl;
-	}
-}
